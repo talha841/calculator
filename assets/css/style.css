@@ -197,7 +197,7 @@ input[type=text] {
 }
 @media(max-width: 376px) {
     .calculate{
-        width: 80%;
+        width: 75%;
         margin: auto;
         margin-top: 45%;
     }
